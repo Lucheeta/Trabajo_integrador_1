@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+
+}
+
+.main-image {
+	background-image: url(../img_integrador/ba1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
+#footer {
+	background: linear-gradient(70deg, rgba(26,54,68,255), rgba(27,82,113,255));
+}
+.form-floating {
+    margin-left: 300px; 
+    margin-right: 300px;
+}
+.titulo {
+	font-family:
+}
+.enviar {
+    margin-left: 300px; 
+    margin-right: 300px; 
+    width: 55.5%; 
+	background-color: rgba(150,201,62,255); 
+    border-color: rgba(150,201,62,255); 
+    margin-bottom: 30px;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 25px;
+}
+#form {
+	margin-left: 300px;
+	margin-right: 300px;
+}
